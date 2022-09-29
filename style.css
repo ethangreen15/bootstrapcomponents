@@ -1,6 +1,27 @@
 img{
     width: 100px; width: 100;
 }
-.home{
+.index{
     background-color: blue;
+    color:red;
+}
+.Android10{
+    background-color: red;
+    color:blue;
+}
+.Android15{
+    background-color: gold;
+    color:green;
+}
+.Android16{
+    background-color: green;
+    color:gold;
+}
+.Android20{
+    background-color: greenyellow;
+    color:orange;
+}
+.Android22{
+    background-color: orange;
+    color:greenyellow;
 }
